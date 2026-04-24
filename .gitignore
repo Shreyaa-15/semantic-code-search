@@ -1,0 +1,20 @@
+# Python
+backend/venv/
+backend/.env
+backend/data/
+__pycache__/
+*.pyc
+*.db
+
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# ML models (huge — never commit)
+*.bin
+*.pt
+*.onnx
+models/
+
+# OS
+.DS_Store
